@@ -13,14 +13,14 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. ATTRIBUTION: The above copyright notice and this permission notice shall be 
+included in all copies or substantial portions of the Software. Any public 
+distribution of the Software or derivatives must credit the original authors.
 
-RESTRICTION: The Software and any modifications made to it may not be used for 
-the purpose of training or improving machine learning algorithms, including but 
-not limited to artificial intelligence, large language models (LLMs), or data 
-mining systems. This condition applies to any derivatives, modifications, or 
-updates based on the Software code.
+2. NO AI TRAINING: The Software and any modifications made to it may not be 
+used for the purpose of training or improving machine learning algorithms, 
+including but not limited to artificial intelligence, large language models (LLMs), 
+or data mining systems.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
