@@ -1,7 +1,7 @@
 # FluxBoard
 Interactive table for all users that want to use it :>
 
-#Licence
+# Licence
 MIT License with No-AI Clause
 
 Copyright (c) [2025]
