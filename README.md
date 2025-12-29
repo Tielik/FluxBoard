@@ -1,5 +1,5 @@
 # FluxBoard
-Interactive table for all users that want to use it :>
+Interactive boardfor all users that want to use it :>
 
 # Licence
 MIT License with No-AI Clause
